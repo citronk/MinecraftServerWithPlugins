@@ -8,12 +8,12 @@
 Версия: `1.16.5`
 
 ## Используемые технологии
-+ Java <img src="https://camo.githubusercontent.com/456059738a43e8aaeaa3e3394a21615a885468e148312e4ba258148189ceb193/68747470733a2f2f6272616e646c6f676f732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f31312f6a6176612d6c6f676f2e706e67" width="35">
-+ [Хостинг FaithNode](https://faithnode.host/) <img src="https://sun9-56.userapi.com/impg/X27_PybDEwjwMHmYOYAvkoyQHSwjupI3g14A8Q/VElhXA2KsqM.jpg?size=1000x1000&quality=95&sign=81a86c6857eaab98cffe85c4031996da&type=album" width="50">
++ **Java** <img src="https://camo.githubusercontent.com/456059738a43e8aaeaa3e3394a21615a885468e148312e4ba258148189ceb193/68747470733a2f2f6272616e646c6f676f732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f31312f6a6176612d6c6f676f2e706e67" width="35">
++ **[Хостинг FaithNode](https://faithnode.host/)** <img src="https://sun9-56.userapi.com/impg/X27_PybDEwjwMHmYOYAvkoyQHSwjupI3g14A8Q/VElhXA2KsqM.jpg?size=1000x1000&quality=95&sign=81a86c6857eaab98cffe85c4031996da&type=album" width="50">
 
 ## Мини-игры на сервере
-+ BedWars
-+ MinerWare
++ [BedWars](#bedwars)
++ [MinerWare](#minerware)
 + Castles
 
 ## Описания режимов
